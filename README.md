@@ -4,18 +4,14 @@
 
 - Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 ```
-Root=7 varsayarsak
+Root=7 varsayarsak görünüm aşağıdaki gibi olacaktır.
                          7
                       /     \
                      5       8
-                   /          \
-                  1            9
-                   \
-                     3      
-                      \         
-                        4        
-                       /
-                     0
-                       \
-                         2
+                   /   \       \
+                  1      6      9
+                 /  \
+                0     3      
+                     / \         
+                    2    4
 ```
