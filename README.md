@@ -1,2 +1,21 @@
 # Binary Search Tree Projesi
- Binary Search Tree Projesi
+
+## [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+- Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+```
+Root=7 varsayarsak
+                         7
+                      /     \
+                     5       8
+                   /          \
+                  1            9
+                   \
+                     3      
+                      \         
+                        4        
+                       /
+                     0
+                       \
+                         2
+```
